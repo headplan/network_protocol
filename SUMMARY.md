@@ -7,7 +7,7 @@
       * [封装](chapter1/tcpipxie-yi-xiang-jie/tcpipxie-yi-zu/feng-88c52c-fen-yong-yu-wang-luo-ce-shi.md)
       * [分用](chapter1/tcpipxie-yi-xiang-jie/tcpipxie-yi-zu/fen-yong.md)
       * [arp协议工作原理](chapter1/tcpipxie-yi-xiang-jie/tcpipxie-yi-zu/arpxie-yi-gong-zuo-yuan-li.md)
-      * dns工作原理
+      * [dns工作原理](chapter1/tcpipxie-yi-xiang-jie/tcpipxie-yi-zu/dnsgong-zuo-yuan-li.md)
     * IP协议详解
     * TCP协议详解
     * TCP/IP通信案例
