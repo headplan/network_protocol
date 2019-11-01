@@ -16,7 +16,7 @@
   * [授权模式](oauth20/shou-quan-mo-shi.md)
     * [授权码模式](oauth20/shou-quan-mo-shi/shou-quan-ma-mo-shi.md)
     * [简化模式](oauth20/shou-quan-mo-shi/jian-hua-mo-shi.md)
-    * 密码模式
+    * [密码模式](oauth20/shou-quan-mo-shi/mi-ma-mo-shi.md)
     * [客户端模式](oauth20/shou-quan-mo-shi/ke-hu-duan-mo-shi.md)
   * [授权实例](oauth20/shou-quan-shi-li.md)
     * [简书使用QQ授权登录](oauth20/shou-quan-shi-li/jian-shu-shi-yong-qq-shou-quan-deng-lu.md)
