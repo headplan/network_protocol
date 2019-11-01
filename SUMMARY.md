@@ -13,4 +13,7 @@
     * [TCP协议详解](chapter1/tcpipxie-yi-xiang-jie/tcpxie-yi-xiang-jie.md)
     * [TCP/IP通信案例](chapter1/tcpipxie-yi-xiang-jie/tcpiptong-xin-an-li.md)
 * [OAuth2.0](oauth20.md)
+  * 授权模式
+  * 授权实例
+  * [深入理解](oauth20/shen-ru-li-jie.md)
 
